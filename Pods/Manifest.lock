@@ -1,0 +1,24 @@
+PODS:
+  - DatePickerDialog (3.0)
+  - IQKeyboardManager (6.5.6)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - DatePickerDialog
+  - IQKeyboardManager
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - DatePickerDialog
+    - IQKeyboardManager
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  DatePickerDialog: 03dbb8350bfa80302ab2a8c83cee1fec70184444
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: a9e75495346252cf03366efd5c217f3f22afca8e
+
+COCOAPODS: 1.9.3
